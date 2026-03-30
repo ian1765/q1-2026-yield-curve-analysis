@@ -1,5 +1,6 @@
 
 # Q1 2026 Yield Curve Analysis
+![Spread Chart](Q1_2026_Spreads.png)
 
 This project analyzes the U.S. Treasury yield curve during Q1 2026 using:
 
